@@ -54,4 +54,4 @@ WhiskySchema.static({
  * Register
  */
 
-mongoose.model('Whisky', WhiskySchema);
+module.exports = mongoose.model('Whisky', WhiskySchema);

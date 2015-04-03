@@ -7,9 +7,7 @@ var model = require('../../app/models');
 
 function drop(name) {
   return new Promise(function (resolve, reject) {
-      console.log('dropped?');
     model[name].collection.drop(function (err) {
-      console.log('dropped?');
       if (err) return reject(err);
       resolve();
     });
@@ -17,8 +15,6 @@ function drop(name) {
 }
 
 //----- MAIN
-console.log(model["Whisky"]);
-console.log(model["Whisky"].collection);
 var drops = new Promise(function(resolve,reject){
   Promise.all([
     'Whisky',
