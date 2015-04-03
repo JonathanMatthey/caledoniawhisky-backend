@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+'use strict';
+console.log('running ./bin/seed')
+
+const exec = require('child_process').execSync;
+
+exec('node scripts/db/drop.js');
+console.log('Dropped the database!');
+exec('node scripts/db/seed.js');
+console.log('Added the seed project!');
