@@ -68,7 +68,13 @@ UserSchema.path('email').validate(function(email) {
 }, 'Invalid email address');
 
 UserSchema.methods.comparePassword = function (candidatePassword, cb) {
-  bcrypt.compare(candidatePassword, this.password, cb);
+  if(candidatePassword == this.password){
+    console.log('login?');
+    cb(false,true);
+  } else {
+    cb(false,false);
+  }
+  // bcrypt.compare(candidatePassword, this.password, cb);
 };
 
 var User =
