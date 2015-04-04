@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5425a349aade9b0000a6e1b2",
+    "name": "bobby",
+    "location": "New York, USA",
+    "email": "bob@bob.com",
+    "password": "bob",
+    "role": "admin"
+  },
+  {
+    "_id": "5429dab46f7bda74b485139f",
+    "name": "sam",
+    "location": "Los Angeles, USA",
+    "email": "sam@sam.com",
+    "password": "sam",
+    "role": "client"
+  }
+]

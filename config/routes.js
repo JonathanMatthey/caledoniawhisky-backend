@@ -6,6 +6,7 @@
 var mongoose = require('mongoose');
 var home = require('home');
 var whiskies = require('api/whiskies');
+var authentication = require('authentication');
 
 /**
  * Expose
@@ -14,6 +15,9 @@ var whiskies = require('api/whiskies');
 module.exports = function (app, passport) {
 
   app.get('/', home.index);
+
+  app.post('/auth/signin', authentication.signin);
+  app.get('/auth/signout', authentication.signout);
 
   app.get('/api/whiskies', whiskies.index);
 

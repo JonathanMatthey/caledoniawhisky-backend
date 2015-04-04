@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "async": "latest",
+    "bcrypt": "^0.8.2",
     "body-parser": "^1.8.2",
     "compression": "^1.1.0",
     "connect-flash": "^0.1.1",
@@ -33,6 +34,7 @@
     "passport": "^0.2.1",
     "passport-local": "^1.0.0",
     "swig": "^1.4.2",
+    "validator": "^3.37.0",
     "view-helpers": "^0.1.5",
     "winston": "^0.8.0"
   },
