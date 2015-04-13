@@ -6,7 +6,9 @@
 var mongoose = require('mongoose');
 var home = require('home');
 var whiskies = require('api/whiskies');
+var reviews = require('api/reviews');
 var authentication = require('authentication');
+var auth = require('../app/middleware/authorization');
 
 /**
  * Expose
@@ -20,6 +22,14 @@ module.exports = function (app, passport) {
   app.get('/auth/signout', authentication.signout);
 
   app.get('/api/whiskies', whiskies.index);
+
+  // get whisky ( with id, returns reviews)
+
+  // post new review ( with whisky_id, current user id  )
+  app.post('/api/reviews', auth.user.exists, reviews.create);
+  app.get('/api/reviews/:reviewId', auth.user.exists, reviews.show);
+  app.patch('/api/reviews/:reviewId', auth.user.exists, reviews.update);
+  app.delete('/api/reviews/:reviewId', auth.user.exists, reviews.destroy);
 
   /**
    * Error handling
