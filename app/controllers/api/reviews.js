@@ -4,48 +4,59 @@
  */
 var Review = require('../../models/review');
 
-exports.index = function (req, res) {
+exports.index = function (req, res, next) {
   var query = {};
   var fields = {};
 };
 
-exports.create = function (req, res) {
-  var query = {};
-  var fields = {};
-
-  console.log(req);
-
+exports.create = function (req, res, next) {
   var review = new Review(req.body);
+  review.user_id = req.user._id;
   review.save(function (err) {
-    if (err) return next(err);
+    if (err){
+      console.log('reviews.create error: ',err)
+      return next(err);
+    }
     res.json(review.toObject());
   });
 };
 
-exports.show = function (req, res) {
+exports.show = function (req, res, next) {
   res.json(req.review.toJSON());
 };
 
-exports.update = function (req, res) {
-  var query = {};
-  var fields = {};
+exports.update = function (req, res, next) {
+  var params = req.body;
+  Review.findOne({
+    _id: req.params.reviewId
+  }, function(err, review) {
+    if (err){
+      console.log('reviews update error: ', err)
+      return next(err);
+    }
+    if (!review){
+      console.log('reviews update error - review not found: ', err)
+      return next(error(404));
+    }
+    review.body = params.body;
+    review.rating = params.rating;
+    review.save(function(err,stag) {
+      if (err){
+        console.log('reviews update error: ', err)
+        return next(err);
+      }
+      res.json(review);
+    });
+  });
 };
 
-exports.destroy = function (req, res) {
-  var query = {};
-  var fields = {};
-  // Whisky.findById(req.params.id, function(err, tag) {
-  //   if (err) return next(err);
-  //   if (tag === null || tag.project_id.toString() !== project._id.toString()) {
-  //     return next(error(404, 'uri not found'));
-  //   }
-  //   tag.remove(function(err) {
-  //     if (err) return next(err);
-  //     breakSegment(tag).then(function(){
-  //       res.statusCode = 204;
-  //       res.end();
-  //     }).catch(next);
-  //   });
-  // });
+exports.destroy = function (req, res, next) {
+  Review.remove({ _id: req.params.reviewId }, function(err) {
+    if (err){
+      console.log('reviews destory error: ', err)
+      return next(err);
+    }
+    res.send({ success: 'Deleted!' });
+  });
 };
 

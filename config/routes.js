@@ -9,6 +9,7 @@ var whiskies = require('api/whiskies');
 var reviews = require('api/reviews');
 var authentication = require('authentication');
 var auth = require('../app/middleware/authorization');
+var config = require('../config/config');
 
 /**
  * Expose

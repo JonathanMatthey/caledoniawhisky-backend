@@ -2,6 +2,7 @@
 var User = require('../models/user');
 
 exports.loadUser = function (req, res, next) {
+  console.log('REQ:',req.user);
   var id = req.session.userid;
   if (!id) return next();
 

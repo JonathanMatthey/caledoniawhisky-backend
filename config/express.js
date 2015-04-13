@@ -102,6 +102,12 @@ module.exports = function (app, passport) {
     })
   }));
 
+  app.use(require('cookie-session')({
+    secret: config.session.secret_token,
+  }));
+
+  app.use(require('../app/middleware/authentication').loadUser);
+
   // use passport session
   app.use(passport.initialize());
   app.use(passport.session());

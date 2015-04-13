@@ -5,6 +5,9 @@
 
 module.exports = {
   db: 'mongodb://localhost/caledoniawhisky',
+  session: {
+      "secret_token": "e9e30e22527b53457738caaf3b3169d7fff4fe2e220390bb4aaeeaec5486e4538646b9408d90627c69246c481edf59974a5bc8d795aaf38da4cf9488e0e85dd3"
+  },
   facebook: {
     clientID: 'APP_ID',
     clientSecret: 'SECRET',
