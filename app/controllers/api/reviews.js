@@ -5,8 +5,26 @@
 var Review = require('../../models/review');
 
 exports.index = function (req, res, next) {
-  var query = {};
-  var fields = {};
+  Review.find({}).sort({})
+  .exec(function(err,reviews){
+    if (err) return next(err);
+    res.json(reviews);
+  });
+};
+
+exports.getUserReviews = function (req, res, next) {
+  var params = req.body;
+  var userId = req.params.userId;;
+  if( req.params.userId === "me"){
+    userId = req.user._id;
+  }
+  Review.find({
+    user_id: userId
+  }).sort({})
+  .exec(function(err,reviews){
+    if (err) return next(err);
+    res.json(reviews);
+  });
 };
 
 exports.create = function (req, res, next) {
