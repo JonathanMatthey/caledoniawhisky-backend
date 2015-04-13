@@ -29,7 +29,9 @@ exports.show = function (req, res) {
 
     Review.find({
       whisky_id : whiskyId
-    }).sort({})
+    })
+    .populate('user_id')
+    .sort({})
     .exec(function(err,reviews){
       if (err) return next(err);
 

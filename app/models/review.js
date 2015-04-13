@@ -14,12 +14,14 @@ var ReviewSchema = new Schema({
   "user_id": {
     type: Schema.ObjectId,
     required: true,
-    index: true
+    index: true,
+    ref: 'User'
   },
   "whisky_id": {
     type: Schema.ObjectId,
     required: true,
-    index: true
+    index: true,
+    ref: 'Whisky'
   },
   "body": { type: String, default: '' },
   "rating": { type: Number, default: 5 },
