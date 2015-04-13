@@ -23,6 +23,7 @@ module.exports = function (app, passport) {
   app.get('/auth/signout', authentication.signout);
 
   app.get('/api/whiskies', whiskies.index);
+  app.get('/api/whiskies/:whiskyId', auth.user.exists, whiskies.show);
 
   // get whisky ( with id, returns reviews)
 
