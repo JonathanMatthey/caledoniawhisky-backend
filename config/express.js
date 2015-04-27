@@ -4,7 +4,7 @@
  */
 
 var express = require('express');
-var session = require('express-session');
+// var session = require('express-session');
 var compression = require('compression');
 var morgan = require('morgan');
 var cookieParser = require('cookie-parser');
@@ -14,7 +14,7 @@ var methodOverride = require('method-override');
 var csrf = require('csurf');
 var swig = require('swig');
 
-var mongoStore = require('connect-mongo')(session);
+// var mongoStore = require('connect-mongo')(session);
 var flash = require('connect-flash');
 var winston = require('winston');
 var helpers = require('view-helpers');
@@ -89,18 +89,17 @@ module.exports = function (app, passport) {
   }));
 
   // cookieParser should be above session
-  app.use(cookieParser());
-  app.use(cookieSession({ secret: 'secret' }));
-  app.use(session({
-    secret: pkg.name,
-    proxy: true,
-    resave: true,
-    saveUninitialized: true,
-    store: new mongoStore({
-      url: config.db,
-      collection : 'sessions'
-    })
-  }));
+  // app.use(cookieParser());
+  // app.use(session({
+  //   secret: pkg.name,
+  //   proxy: true,
+  //   resave: true,
+  //   saveUninitialized: true,
+  //   store: new mongoStore({
+  //     url: config.db,
+  //     collection : 'sessions'
+  //   })
+  // }));
 
   app.use(require('cookie-session')({
     secret: config.session.secret_token,
@@ -109,8 +108,8 @@ module.exports = function (app, passport) {
   app.use(require('../app/middleware/authentication').loadUser);
 
   // use passport session
-  app.use(passport.initialize());
-  app.use(passport.session());
+  // app.use(passport.initialize());
+  // app.use(passport.session());
 
   // connect flash for flash messages - should be declared after sessions
   app.use(flash());

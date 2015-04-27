@@ -26,6 +26,7 @@ exports.user.is = function (roles) {
  */
 
 exports.user.exists = function (req, res, next) {
+  console.log(req);
   if (!req.user) return next(error(401));
   next();
 }

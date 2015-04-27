@@ -28,7 +28,7 @@ module.exports = function (app, passport) {
   // get whisky ( with id, returns reviews)
 
   // post new review ( with whisky_id, current user id  )
-  app.get('/api/reviews', auth.user.exists, reviews.index);
+  app.get('/api/reviews', reviews.index);
   app.post('/api/reviews', auth.user.exists, reviews.create);
   app.get('/api/reviews/:reviewId', auth.user.exists, reviews.show);
   app.patch('/api/reviews/:reviewId', auth.user.exists, reviews.update);
