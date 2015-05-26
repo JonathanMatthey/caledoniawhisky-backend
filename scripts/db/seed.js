@@ -6,6 +6,7 @@ require('../../app/models');
 Promise.all([
   upsert('users', 'User'),
   upsert('whiskies', 'Whisky'),
+  upsert('reviews', 'Review'),
 ]).then(function () {
   process.exit(0);
 }, function (err) {
@@ -14,7 +15,6 @@ Promise.all([
 });
 
 /**
- * For everything but Whiskies because users needs fiddling.
  */
 
 function upsert(collection, constructor) {

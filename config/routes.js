@@ -5,8 +5,9 @@
 
 var mongoose = require('mongoose');
 var home = require('home');
-var whiskies = require('api/whiskies');
-var reviews = require('api/reviews');
+var homeApi = require('api/home');
+var whiskiesApi = require('api/whiskies');
+var reviewsApi = require('api/reviews');
 var authentication = require('authentication');
 var auth = require('../app/middleware/authorization');
 var config = require('../config/config');
@@ -22,19 +23,20 @@ module.exports = function (app, passport) {
   app.post('/auth/signin', authentication.signin);
   app.get('/auth/signout', authentication.signout);
 
-  app.get('/api/whiskies', whiskies.index);
-  app.get('/api/whiskies/:whiskyId', auth.user.exists, whiskies.show);
+  app.get('/api/whiskies', whiskiesApi.index);
+  app.get('/api/whiskies/:whiskyId', auth.user.exists, whiskiesApi.show);
 
   // get whisky ( with id, returns reviews)
 
   // post new review ( with whisky_id, current user id  )
-  app.get('/api/reviews', reviews.index);
-  app.post('/api/reviews', auth.user.exists, reviews.create);
-  app.get('/api/reviews/:reviewId', auth.user.exists, reviews.show);
-  app.patch('/api/reviews/:reviewId', auth.user.exists, reviews.update);
-  app.delete('/api/reviews/:reviewId', auth.user.exists, reviews.destroy);
+  app.get('/api/home', homeApi.home);
+  app.get('/api/reviews', reviewsApi.index);
+  app.post('/api/reviews', auth.user.exists, reviewsApi.create);
+  app.get('/api/reviews/:reviewId', auth.user.exists, reviewsApi.show);
+  app.patch('/api/reviews/:reviewId', auth.user.exists, reviewsApi.update);
+  app.delete('/api/reviews/:reviewId', auth.user.exists, reviewsApi.destroy);
 
-  app.get('/api/user/:userId/reviews', auth.user.exists, reviews.getUserReviews);
+  app.get('/api/user/:userId/reviews', auth.user.exists, reviewsApi.getUserReviews);
 
   /**
    * Error handling

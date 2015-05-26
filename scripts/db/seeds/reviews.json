@@ -1,0 +1,26 @@
+[
+  {
+    "user_id" : "5425a349aade9b0000a6e1b2",
+    "whisky_id" : "551f2d984796170962683107",
+    "rating" : 3,
+    "body" : "Malty ! - review 1 "
+  },
+  {
+    "user_id" : "5425a349aade9b0000a6e1b2",
+    "whisky_id" : "551f2d984796170962683107",
+    "rating" : 1,
+    "body" : "SEXY ! - review 2 "
+  },
+  {
+    "user_id" : "5425a349aade9b0000a6e1b2",
+    "whisky_id" : "551f2d984796170962683109",
+    "rating" : 5,
+    "body" : "Cunty ! - review 3 "
+  },
+  {
+    "user_id" : "5429dab46f7bda74b485139f",
+    "whisky_id" : "551f2d984796170962683109",
+    "rating" : 5,
+    "body" : "AGAIN ! - review 4 "
+  }
+]

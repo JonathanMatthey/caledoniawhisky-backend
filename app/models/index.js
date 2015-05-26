@@ -19,3 +19,4 @@ mongoose.plugin(function(schema){
 // until this folder is cleaned up
 exports.User = require('./user');
 exports.Whisky = require('./whisky');
+exports.Review = require('./review');

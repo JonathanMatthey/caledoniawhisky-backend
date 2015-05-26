@@ -19,6 +19,7 @@ var drops = new Promise(function(resolve,reject){
   Promise.all([
     'Whisky',
     'User',
+    'Reviews',
   ].map(drop)).then(function () {
     console.log('All collections have been dropped.');
     resolve()
