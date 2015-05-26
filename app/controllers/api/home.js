@@ -8,13 +8,11 @@ var User = require('../../models/user');
 
 exports.home = function (req, res, next) {
 
-  var query = {
-  };
+  var query = {};
   var fields = {};
   // Whisky.findOne({}, {}, { sort: { 'created_at' : -1 } }, function(err, whisky) {
   //   console.log( whisky );
   // });
-
 
   // find Events
   //
@@ -44,9 +42,9 @@ exports.home = function (req, res, next) {
   }).then(function (_users) {
     collectors = _users;
     res.json({
-      topCollectors: collectors,
-      events: {},
       latestWhisky: whisky,
+      collectors: collectors,
+      events: {},
     });
   }).catch(next);
 };
