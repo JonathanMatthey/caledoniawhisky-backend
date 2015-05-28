@@ -16,6 +16,8 @@ var WhiskySchema = new Schema({
   "year": Number,
   "region": { type: String, default: '' },
   "description": { type: String, default: '' },
+  "rating": { type: Number, default: 8 },
+  "rating_count": { type: Number, default: 32 },
   "images": {
     "thumbnail_filename": { type: String, default: '' },
   },

@@ -7,7 +7,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "abfob.12yov1.jpg"
+      "thumbnail_filename": "abfob.12yov1.png"
     },
     "character": "Oak, Butterscotch, Peaches"
   }, {
@@ -18,7 +18,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "ardob.non.jpg"
+      "thumbnail_filename": "ardob.non.png"
     },
     "character": "Delicate, Raspberry Flavor, Fruity"
   }, {
@@ -29,7 +29,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "clyob.14yo.jpg"
+      "thumbnail_filename": "clyob.14yo.png"
     },
     "character": "Light, Dried Fruits, Vanilla, Leather"
   }, {
@@ -39,7 +39,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "dlmob.12yov9.jpg"
+      "thumbnail_filename": "dlmob.12yov9.png"
     },
     "character": "Malty Sweetness, Heather, Faintly Salty"
   }, {
@@ -49,7 +49,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "dlmob.15yo.jpg"
+      "thumbnail_filename": "dlmob.15yo.png"
     },
     "character": "Sweet Vanilla, Cinnamon, Ginger, Oranges"
   }, {
@@ -59,7 +59,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "dlmob.18yo.jpg"
+      "thumbnail_filename": "dlmob.18yo.png"
     },
     "character": "Spices, Chocolate, Coffee"
   }, {
@@ -69,7 +69,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "dlmob.non10.jpg"
+      "thumbnail_filename": "dlmob.non10.png"
     },
     "character": "Citrus, Chocolate, Raw Clove, Black Pepper"
   }, {
@@ -79,7 +79,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "dalob.15yov1.jpg"
+      "thumbnail_filename": "dalob.15yov1.png"
     },
     "character": "Smooth, Heather Honey Notes, Malty, Peat"
   }, {
@@ -89,7 +89,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "edrob.10yov1.jpg"
+      "thumbnail_filename": "edrob.10yov1.png"
     },
     "character": "Rum, Barley, Spiced Fruitcake"
   }, {
@@ -99,7 +99,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "edrob.12yo.jpg"
+      "thumbnail_filename": "edrob.12yo.png"
     },
     "character": "Berry Fruits, Honey, Caramel"
   }, {
@@ -109,7 +109,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "grnob.12yov4.jpg"
+      "thumbnail_filename": "grnob.12yov4.png"
     },
     "character": "Sherry, Oak, Almonds and Honey"
   }, {
@@ -119,7 +119,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "grnob.15yov1.jpg"
+      "thumbnail_filename": "grnob.15yov1.png"
     },
     "character": "Dry Maltiness, Crunchy Toffee, Butter, Sherry"
   }, {
@@ -129,7 +129,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "ggrob.12yo.jpg"
+      "thumbnail_filename": "ggrob.12yo.png"
     },
     "character": "Hint of Oak with Fresh Heather and Poached Pears"
   }, {
@@ -139,7 +139,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "ggrob.non1.jpg"
+      "thumbnail_filename": "ggrob.non1.png"
     },
     "character": "Butterscotch, Caramel, Smoke"
   }, {
@@ -149,7 +149,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gmgob.10yov21.jpg"
+      "thumbnail_filename": "gmgob.10yov21.png"
     },
     "character": "Butterscotch, Walnut and Salty"
   }, {
@@ -159,7 +159,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gmgob.12yov5.jpg"
+      "thumbnail_filename": "gmgob.12yov5.png"
     },
     "character": "Sweet Cherry, Sultanas, Walnuts"
   }, {
@@ -169,7 +169,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gmgob.12yov7.jpg"
+      "thumbnail_filename": "gmgob.12yov7.png"
     },
     "character": "Dessert Wine, Cereal, Malty Spice, Berries"
   }, {
@@ -179,7 +179,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gmgob.12yov6.jpg"
+      "thumbnail_filename": "gmgob.12yov6.png"
     },
     "character": "Dark Chocolate, Port, Walnuts"
   }, {
@@ -189,7 +189,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "obnob.14yo.jpg"
+      "thumbnail_filename": "obnob.14yo.png"
     },
     "character": "Salt Sea Air, Hints of Smoke and Oak"
   }, {
@@ -199,7 +199,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "opnob.12yo.jpg"
+      "thumbnail_filename": "opnob.12yo.png"
     },
     "character": "Musty, Nuts, Sultanas, Oak, Toffee, Spices"
   }, {
@@ -209,7 +209,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "opnob.17yo.jpg"
+      "thumbnail_filename": "opnob.17yo.png"
     },
     "character": "Toffee, Citrus, Honeycomb"
   }, {
@@ -219,7 +219,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "sprob.10yo.jpg"
+      "thumbnail_filename": "sprob.10yo.png"
     },
     "character": "Smoked Meat, Vanilla, Earth"
   }, {
@@ -229,7 +229,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "sprob.15yo.jpg"
+      "thumbnail_filename": "sprob.15yo.png"
     },
     "character": "Dark Chocolate, Figs, Marzipan"
   }, {
@@ -239,7 +239,7 @@
     "region": "highlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "tomob.12yo.jpg"
+      "thumbnail_filename": "tomob.12yo.png"
     },
     "character": "Honey, Vanilla Malt, Cashews"
   },
@@ -254,7 +254,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "hlpob.12yov8.jpg"
+      "thumbnail_filename": "hlpob.12yov8.png"
     },
     "character": "Orange, Green Tea, Spicy Honey"
   }, {
@@ -264,7 +264,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "hlpob.15yov1.jpg"
+      "thumbnail_filename": "hlpob.15yov1.png"
     },
     "character": "Honey, Smooth Spice, Peat, Smokey"
   }, {
@@ -274,7 +274,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "hlpob.18yov2.jpg"
+      "thumbnail_filename": "hlpob.18yov2.png"
     },
     "character": "Rich, Toffee, Honey, Peat"
   }, {
@@ -284,7 +284,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "iojob.10yo.jpg"
+      "thumbnail_filename": "iojob.10yo.png"
     },
     "character": "Warming Gentle Oak, Coffee, Caramel, Licorice"
   }, {
@@ -294,7 +294,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "iojob.16yo.jpg"
+      "thumbnail_filename": "iojob.16yo.png"
     },
     "character": "Dark Chocolate, Oranges, Spices, Sweet Toffee"
   }, {
@@ -304,7 +304,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "iojob.non4.jpg"
+      "thumbnail_filename": "iojob.non4.png"
     },
     "character": "Peat Smoke, Cinnamon, Sea Spray, Bonfire"
   }, {
@@ -314,7 +314,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "iojob.non.jpg"
+      "thumbnail_filename": "iojob.non.png"
     },
     "character": "Spice, Honey, Pine and Light Peat"
   }, {
@@ -324,7 +324,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "ldgob.10yov1.jpg"
+      "thumbnail_filename": "ldgob.10yov1.png"
     },
     "character": "Bold Peat Yet Sweet with Iodine and Heather"
   }, {
@@ -334,7 +334,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "scpob.16yo.jpg"
+      "thumbnail_filename": "scpob.16yo.png"
     },
     "character": "Dried Fruits, Hints of Orange, Butterscotch"
   }, {
@@ -344,7 +344,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "talob.10yov1.jpg"
+      "thumbnail_filename": "talob.10yov1.png"
     },
     "character": "Smoky, Malty, Sweet, Pepper"
   }, {
@@ -354,7 +354,7 @@
     "region": "islands",
     "description": "",
     "images": {
-      "thumbnail_filename": "tobob.10yov1.jpg"
+      "thumbnail_filename": "tobob.10yov1.png"
     },
     "character": "Smooth and Velvety, Spiced Gingerbread"
   },
@@ -369,7 +369,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "abgob.10yov1.jpg"
+      "thumbnail_filename": "abgob.10yov1.png"
     },
     "character": "Peat, Smoke, Hints of Sherry and Vanilla"
   }, {
@@ -379,7 +379,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "abgob.non7.jpg"
+      "thumbnail_filename": "abgob.non7.png"
     },
     "character": "Pepper Steak, Seaweed, Espresso and Dark Fruits"
   }, {
@@ -389,7 +389,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "abgob.non18.jpg"
+      "thumbnail_filename": "abgob.non18.png"
     },
     "character": "Intensely Smoky, Dry, Tangy"
   }, {
@@ -399,7 +399,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bowob.12yov10.jpg"
+      "thumbnail_filename": "bowob.12yov10.png"
     },
     "character": "Spice, Banana Bread, Peaty"
   }, {
@@ -409,7 +409,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bowob.15yov8.jpg"
+      "thumbnail_filename": "bowob.15yov8.png"
     },
     "character": "Bitter Chocolate, Treacle Toffee, Hint of Smoke"
   }, {
@@ -419,7 +419,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bowob.18yov1.jpg"
+      "thumbnail_filename": "bowob.18yov1.png"
     },
     "character": "Nougat, Caramel, Smoke, Salt, Chocolate, Banana"
   }, {
@@ -429,7 +429,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "pclob.non5.jpg"
+      "thumbnail_filename": "pclob.non5.png"
     },
     "character": "Smokey Sweetness, Vanilla, Toffee"
   }, {
@@ -439,7 +439,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bruob.non23.jpg"
+      "thumbnail_filename": "bruob.non23.png"
     },
     "character": "Barley Sugar, Honey Almonds, Pear"
   }, {
@@ -449,7 +449,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bunob.12yov3.jpg"
+      "thumbnail_filename": "bunob.12yov3.png"
     },
     "character": "Hints of Fruit and Nuts, Sweet Maltiness"
   }, {
@@ -459,7 +459,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "bunob.18yov2.jpg"
+      "thumbnail_filename": "bunob.18yov2.png"
     },
     "character": "Vanilla, Caramel, Hint Of Peat and Brine"
   }, {
@@ -469,7 +469,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "cilob.12yov1.jpg"
+      "thumbnail_filename": "cilob.12yov1.png"
     },
     "character": "Peat, Sea Salt, Spicy with a hint of Citrus"
   }, {
@@ -479,7 +479,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lgvob.1996.jpg"
+      "thumbnail_filename": "lgvob.1996.png"
     },
     "character": "Bonfire, Sea Spray and Melon"
   }, {
@@ -489,7 +489,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lgvob.16yo.jpg"
+      "thumbnail_filename": "lgvob.16yo.png"
     },
     "character": "Peaty, Grassy, Salty Notes"
   }, {
@@ -499,7 +499,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lrgob.10yov1.jpg"
+      "thumbnail_filename": "lrgob.10yov1.png"
     },
     "character": "Intense Smoke, Seaweed, Salt"
   }, {
@@ -509,7 +509,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lrgob.18yo.jpg"
+      "thumbnail_filename": "lrgob.18yo.png"
     },
     "character": "Smoky, Fruity Tang, Expands to Oak and Nuts"
   }, {
@@ -519,7 +519,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lgvob.non1.jpg"
+      "thumbnail_filename": "lgvob.non1.png"
     },
     "character": "Butter, Smoke, Fudge"
   }, {
@@ -529,7 +529,7 @@
     "region": "islay",
     "description": "",
     "images": {
-      "thumbnail_filename": "lrgob.non1.jpg"
+      "thumbnail_filename": "lrgob.non1.png"
     },
     "character": "Peat/Smoke Heaven, Wood, Hint of Maltiness"
   },
@@ -544,7 +544,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "aucob.non2.jpg"
+      "thumbnail_filename": "aucob.non2.png"
     },
     "character": "Fruit, Syrup, Hazelnut, Butterscotch"
   }, {
@@ -554,7 +554,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "aucob.12yov6.jpg"
+      "thumbnail_filename": "aucob.12yov6.png"
     },
     "character": "Sweet Waves of Caramel, Peppery Overtones"
   }, {
@@ -564,7 +564,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "aucob.18yov2.jpg"
+      "thumbnail_filename": "aucob.18yov2.png"
     },
     "character": "Toasty Vanilla, Chestnut, Zest"
   }, {
@@ -574,7 +574,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "aucob.21yo.jpg"
+      "thumbnail_filename": "aucob.21yo.png"
     },
     "character": "Oily, Nuts, Sugared Peels"
   }, {
@@ -584,7 +584,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "bdnob.18yov1.jpg"
+      "thumbnail_filename": "bdnob.18yov1.png"
     },
     "character": "Sweet Cream, Peaches and Hazelnuts"
   }, {
@@ -594,7 +594,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gkcob.12yov1.jpg"
+      "thumbnail_filename": "gkcob.12yov1.png"
     },
     "character": "Crème Brulee, Touch of Peat"
   }, {
@@ -604,7 +604,7 @@
     "region": "lowlands",
     "description": "",
     "images": {
-      "thumbnail_filename": "gkcob.1996.jpg"
+      "thumbnail_filename": "gkcob.1996.png"
     },
     "character": "Sweet, Dry, Nuts, Vanilla, Wood"
   },
@@ -617,7 +617,7 @@
     "year": 12,
     "region": "speyside",
     "images": {
-      "thumbnail_filename": "ablob.12yo.jpg"
+      "thumbnail_filename": "ablob.12yo.png"
     },
     "character": "Chocolate, Toffee, Cinnamon, Ginger Spiciness"
   }, {
@@ -627,7 +627,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ablob.16yov1.jpg"
+      "thumbnail_filename": "ablob.16yov1.png"
     },
     "character": "Floral and Spicy, Soft Plums, Gentle Oak"
   }, {
@@ -637,7 +637,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ablob.18yo.jpg"
+      "thumbnail_filename": "ablob.18yo.png"
     },
     "character": "Apricot, Cream, Licorice, Honey"
   }, {
@@ -647,7 +647,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ablob.non27.jpg"
+      "thumbnail_filename": "ablob.non27.png"
     },
     "character": "Creamy, Orange, Black Cherry, Dried Fruit, Sherry"
   }, {
@@ -657,7 +657,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ancob.12yo.jpg"
+      "thumbnail_filename": "ancob.12yo.png"
     },
     "character": "Oak Spice, White Pepper, Hints of charcoal, Peat"
   }, {
@@ -667,7 +667,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "balob.12yo.jpg"
+      "thumbnail_filename": "balob.12yo.png"
     },
     "character": "Smooth & Mellow, Nutty Sweetness, Spice, Sherry"
   }, {
@@ -677,7 +677,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "balob.15yo.jpg"
+      "thumbnail_filename": "balob.15yo.png"
     },
     "character": "Rich, Honey Maltiness, Vanilla, Oak, Spices"
   }, {
@@ -687,7 +687,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "balob.21yo.jpg"
+      "thumbnail_filename": "balob.21yo.png"
     },
     "character": "Refined, Creamy and Silky with Fruit and Honey"
   }, {
@@ -697,7 +697,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "bnrob.10yov1.jpg"
+      "thumbnail_filename": "bnrob.10yov1.png"
     },
     "character": "Peat, Fruit, Heather, Nuts, Oak"
   }, {
@@ -707,7 +707,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "bnrob.12yo.jpg"
+      "thumbnail_filename": "bnrob.12yo.png"
     },
     "character": "Rich Honey, Vanilla, Cream, Spice, Chocolate"
   }, {
@@ -717,7 +717,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "bnrob.15yov4.jpg"
+      "thumbnail_filename": "bnrob.15yov4.png"
     },
     "character": "Port Wood Butterscotch, Peaches, Sultanas, Rich Port"
   }, {
@@ -727,7 +727,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "bnrob.1998v1.jpg"
+      "thumbnail_filename": "bnrob.1998v1.png"
     },
     "character": "Spices, Apples, Honey and Toffee"
   }, {
@@ -737,7 +737,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "bnrob.20yo.jpg"
+      "thumbnail_filename": "bnrob.20yo.png"
     },
     "character": "Spicy, Nutty, Chocolate, Vanilla with Hints of Apples"
   }, {
@@ -747,7 +747,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "carob.12yov1.jpg"
+      "thumbnail_filename": "carob.12yov1.png"
     },
     "character": "Crisp Grassiness, Wood, Orange Notes"
   }, {
@@ -757,7 +757,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "cgmob.12yo.jpg"
+      "thumbnail_filename": "cgmob.12yo.png"
     },
     "character": "Soft Fruits, Touch of Walnut, Silk"
   }, {
@@ -767,7 +767,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gbgg!m10yo.jpg"
+      "thumbnail_filename": "gbgg!m10yo.png"
     },
     "character": "Winter Berries, Mixed Fruit, Malt Loaf"
   }, {
@@ -777,7 +777,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfcob.10yo.jpg"
+      "thumbnail_filename": "gfcob.10yo.png"
     },
     "character": "Sherry Sweetness, Dried Fruit, Vanilla, Cloves"
   }, {
@@ -787,7 +787,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfcob.17yov1.jpg"
+      "thumbnail_filename": "gfcob.17yov1.png"
     },
     "character": "Big, Balanced, Sherry, Fruit, Touch of Peat"
   }, {
@@ -797,7 +797,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfcob.21yo.jpg"
+      "thumbnail_filename": "gfcob.21yo.png"
     },
     "character": "Full Bodied, Rich, Spice, Fruit, Smoke"
   }, {
@@ -807,7 +807,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfdob.12yo.jpg"
+      "thumbnail_filename": "gfdob.12yo.png"
     },
     "character": "Fragrant, Fresh Pear and Subtle Oak"
   }, {
@@ -817,7 +817,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfdob.15yo.jpg"
+      "thumbnail_filename": "gfdob.15yo.png"
     },
     "character": "Honey, Raisin and Warm Spice"
   }, {
@@ -827,7 +827,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "gfdob.18yo.jpg"
+      "thumbnail_filename": "gfdob.18yo.png"
     },
     "character": "Smooth and Mellow, Baked Apple, Robust Oak"
   }, {
@@ -837,7 +837,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ggtob.10yov1.jpg"
+      "thumbnail_filename": "ggtob.10yov1.png"
     },
     "character": "Floral, Honeyed Fruit, Vanilla, Marshmallow"
   }, {
@@ -847,7 +847,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ggtob.16yo.jpg"
+      "thumbnail_filename": "ggtob.16yo.png"
     },
     "character": "Soft and Fresh with Ripe Orchard Fruits"
   }, {
@@ -857,7 +857,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "ggtob.non3.jpg"
+      "thumbnail_filename": "ggtob.non3.png"
     },
     "character": "Creamy and Fruity, Dry Nutty Finish"
   }, {
@@ -867,7 +867,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "glvob.12yov1.jpg"
+      "thumbnail_filename": "glvob.12yov1.png"
     },
     "character": "Floral Notes, Fresh Peaches and Pears, Vanilla"
   }, {
@@ -877,7 +877,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "glvob.15yo.jpg"
+      "thumbnail_filename": "glvob.15yo.png"
     },
     "character": "French Oak Sweet and Smooth, Fruit, Nuts, Cinnamon"
   }, {
@@ -887,7 +887,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "glvob.16yov12.jpg"
+      "thumbnail_filename": "glvob.16yov12.png"
     },
     "character": "Nadurra Poached Peaches, Vanilla, White Chocolate, Ginger"
   }, {
@@ -897,7 +897,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "glvob.18yov1.jpg"
+      "thumbnail_filename": "glvob.18yov1.png"
     },
     "character": "Balanced, Spices, Bitter Orange, Oak"
   }, {
@@ -907,7 +907,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "grsob.1998v1.jpg"
+      "thumbnail_filename": "grsob.1998v1.png"
     },
     "character": "Zesty Fruit, Layered Sweetness, Delicate Spices"
   }, {
@@ -917,7 +917,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "grsob.2001.jpg"
+      "thumbnail_filename": "grsob.2001.png"
     },
     "character": "Orange, Vanilla, Cinnamon"
   }, {
@@ -927,7 +927,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "grsob.non3.jpg"
+      "thumbnail_filename": "grsob.non3.png"
     },
     "character": "Rich, Sweet, Coconut, Vanilla"
   }, {
@@ -937,7 +937,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "grsob.non.jpg"
+      "thumbnail_filename": "grsob.non.png"
     },
     "character": "Full Malty Flavor, Vanilla and Orange"
   }, {
@@ -947,7 +947,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "lkwg!m15yo.jpg"
+      "thumbnail_filename": "lkwg!m15yo.png"
     },
     "character": "Sweet, Smooth, Spicy and Nutty"
   }, {
@@ -957,7 +957,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "lismorevattedscotch.jpg"
+      "thumbnail_filename": "lismorevattedscotch.png"
     },
     "character": "Caramel, Peat, Nuts"
   }, {
@@ -967,7 +967,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "lgmob.16yo.jpg"
+      "thumbnail_filename": "lgmob.16yo.png"
     },
     "character": "Creamy, Spice, Toffee Apples, Oaky"
   }, {
@@ -977,7 +977,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "macob.12yo.jpg"
+      "thumbnail_filename": "macob.12yo.png"
     },
     "character": "Sherry, Honey with Flowery Notes"
   }, {
@@ -987,7 +987,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "macob.15yo.jpg"
+      "thumbnail_filename": "macob.15yo.png"
     },
     "character": "Fine Oak Rich Chocolate, Raisin, Orange"
   }, {
@@ -997,7 +997,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "macob.1993.jpg"
+      "thumbnail_filename": "macob.1993.png"
     },
     "character": "Rich, Chewy, Raisin and Fig"
   }, {
@@ -1007,7 +1007,7 @@
     "region": "speyside",
     "description": "",
     "images": {
-      "thumbnail_filename": "mtlg!m15yov2.jpg"
+      "thumbnail_filename": "mtlg!m15yov2.png"
     },
     "character": "Raisins, Marmalade and Burnt Sugar"
   },
@@ -1022,7 +1022,7 @@
     "region": "blended malt",
     "description": "",
     "images": {
-      "thumbnail_filename": "vatted_com7.jpg"
+      "thumbnail_filename": "vatted_com7.png"
     },
     "character": "Tree Fruits, Cream, Spices"
   }, {
@@ -1032,7 +1032,7 @@
     "region": "blended malt",
     "description": "",
     "images": {
-      "thumbnail_filename": "vatted_com4.jpg"
+      "thumbnail_filename": "vatted_com4.png"
     },
     "character": "Wood Smoke, Iodine, Bacon, Caramel"
   }, {
@@ -1042,7 +1042,7 @@
     "region": "blended malt",
     "description": "",
     "images": {
-      "thumbnail_filename": "vatted_com18.jpg"
+      "thumbnail_filename": "vatted_com18.png"
     },
     "character": "Sweet Clove, Ginger, Nutmeg, Vanilla"
   },
@@ -1057,7 +1057,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_ban1.jpg"
+      "thumbnail_filename": "blend_ban1.png"
     },
     "character": "Nougat, Lemon, Cocao"
   }, {
@@ -1067,7 +1067,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_chi1.jpg"
+      "thumbnail_filename": "blend_chi1.png"
     },
     "character": "Honey, Ripe Apples, Butterscotch"
   }, {
@@ -1077,7 +1077,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_chi2.jpg"
+      "thumbnail_filename": "blend_chi2.png"
     },
     "character": "Orange Rind, Honey, Malty Grain"
   }, {
@@ -1087,7 +1087,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_dew5.jpg"
+      "thumbnail_filename": "blend_dew5.png"
     },
     "character": "Vanilla Fudge, Smoke, Heather Honey"
   }, {
@@ -1097,7 +1097,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_fam2.jpg"
+      "thumbnail_filename": "blend_fam2.png"
     },
     "character": "Biscuit, Creamy Malt, Hint of Spice"
   }, {
@@ -1107,7 +1107,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_gra4.jpg"
+      "thumbnail_filename": "blend_gra4.png"
     },
     "character": "Toffe, Vanilla Fudge, Oak"
   }, {
@@ -1117,7 +1117,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_joh1.jpg"
+      "thumbnail_filename": "blend_joh1.png"
     },
     "character": "Spices, Floral, Touch of Smoke"
   }, {
@@ -1127,7 +1127,7 @@
     "region": "blended scotch",
     "description": "",
     "images": {
-      "thumbnail_filename": "blend_joh84.jpg"
+      "thumbnail_filename": "blend_joh84.png"
     },
     "character": "Ginger Cake, Marzipan, Pears in Chocolate"
   },
@@ -1142,7 +1142,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "basil-haydens.jpg"
+      "thumbnail_filename": "basil-haydens.png"
     },
     "character": "Berry Fruits, Cream, Trifle"
   }, {
@@ -1152,7 +1152,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_bla1.jpg"
+      "thumbnail_filename": "brbon_bla1.png"
     },
     "character": "Caramelized Sugar, Honey, Pepper"
   }, {
@@ -1162,7 +1162,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "bookers.jpg"
+      "thumbnail_filename": "bookers.png"
     },
     "character": "Blackberry, Burnt Sugar, Alcohol Burn"
   }, {
@@ -1172,7 +1172,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_buf11.jpg"
+      "thumbnail_filename": "brbon_buf11.png"
     },
     "character": "Brown Sugar, Toffee Apple, Custard"
   }, {
@@ -1182,7 +1182,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_bul8.jpg"
+      "thumbnail_filename": "brbon_bul8.png"
     },
     "character": "Fresh, Sweet Honey and Oak"
   }, {
@@ -1192,7 +1192,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_eva24.jpg"
+      "thumbnail_filename": "brbon_eva24.png"
     },
     "character": "Dried Apricots, Apple, Woody Spices"
   }, {
@@ -1202,7 +1202,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_fou9.jpg"
+      "thumbnail_filename": "brbon_fou9.png"
     },
     "character": "Corn Bread, Roasted Nuts, Cinnamon, Cloves"
   }, {
@@ -1212,7 +1212,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "kingscounty.jpg"
+      "thumbnail_filename": "kingscounty.png"
     },
     "character": "Toasted Grains, Melted Butter, Cinnamon"
   }, {
@@ -1222,7 +1222,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_kno1.jpg"
+      "thumbnail_filename": "brbon_kno1.png"
     },
     "character": "Sweet, Pepper, Hints of Fruit"
   }, {
@@ -1232,7 +1232,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_mak1.jpg"
+      "thumbnail_filename": "brbon_mak1.png"
     },
     "character": "Sweet, Hints of Fruit and Caramel"
   }, {
@@ -1242,7 +1242,7 @@
     "region": "bourbon",
     "description": "",
     "images": {
-      "thumbnail_filename": "woodford-reserve.jpg"
+      "thumbnail_filename": "woodford-reserve.png"
     },
     "character": "Toasty, Woody, Touch of Spice"
   },
@@ -1257,7 +1257,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_bul5.jpg"
+      "thumbnail_filename": "brbon_bul5.png"
     },
     "character": "Tobacco, Cherry, Spices"
   }, {
@@ -1267,7 +1267,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_hig4.jpg"
+      "thumbnail_filename": "brbon_hig4.png"
     },
     "character": "Spicy, Clove, Dark Chocolate"
   }, {
@@ -1277,7 +1277,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_mic5.jpg"
+      "thumbnail_filename": "brbon_mic5.png"
     },
     "character": "Pepper, Citrus, Butterscotch"
   }, {
@@ -1287,7 +1287,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_ove3.jpg"
+      "thumbnail_filename": "brbon_ove3.png"
     },
     "character": "Vanilla, Clove, White Pepper"
   }, {
@@ -1297,7 +1297,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_rit1.jpg"
+      "thumbnail_filename": "brbon_rit1.png"
     },
     "character": "Gingerbread, Orange Peel, Dark Chocolate"
   }, {
@@ -1307,7 +1307,7 @@
     "region": "rye",
     "description": "",
     "images": {
-      "thumbnail_filename": "brbon_tem1.jpg"
+      "thumbnail_filename": "brbon_tem1.png"
     },
     "character": "Orange, Wood, Clove"
   },
@@ -1322,7 +1322,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_bus2.jpg"
+      "thumbnail_filename": "irish_bus2.png"
     },
     "character": "Silky Texture, Nuts, Sherry"
   }, {
@@ -1332,7 +1332,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_bus1.jpg"
+      "thumbnail_filename": "irish_bus1.png"
     },
     "character": "Honey Sweetness, Spices"
   }, {
@@ -1342,7 +1342,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_bus3.jpg"
+      "thumbnail_filename": "irish_bus3.png"
     },
     "character": "Vanilla, Milk Chocolate, Toasted Wood"
   }, {
@@ -1352,7 +1352,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_bus8.jpg"
+      "thumbnail_filename": "irish_bus8.png"
     },
     "character": "Praline, Honey, Caramelized Fruits"
   }, {
@@ -1362,7 +1362,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_jam1.jpg"
+      "thumbnail_filename": "irish_jam1.png"
     },
     "character": "Orchard Fruits, Vanilla Cream"
   }, {
@@ -1372,7 +1372,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_red1.jpg"
+      "thumbnail_filename": "irish_red1.png"
     },
     "character": "Nuts, Citrus Peel, Marzipan"
   }, {
@@ -1382,7 +1382,7 @@
     "region": "ireland",
     "description": "",
     "images": {
-      "thumbnail_filename": "irish_iri3.jpg"
+      "thumbnail_filename": "irish_iri3.png"
     },
     "character": "Ripe Fruits, Vanilla"
   },
@@ -1397,7 +1397,7 @@
     "region": "japan",
     "description": "",
     "images": {
-      "thumbnail_filename": "japan_hak1.jpg"
+      "thumbnail_filename": "japan_hak1.png"
     },
     "character": "Pear, Caramel, Oak"
   }, {
@@ -1407,7 +1407,7 @@
     "region": "japan",
     "description": "",
     "images": {
-      "thumbnail_filename": "yamazaki12.jpg"
+      "thumbnail_filename": "yamazaki12.png"
     },
     "character": "Smooth, Winter Spice, Citrus"
   }, {
@@ -1417,7 +1417,7 @@
     "region": "japan",
     "description": "",
     "images": {
-      "thumbnail_filename": "japan_hib5.jpg"
+      "thumbnail_filename": "japan_hib5.png"
     },
     "character": "Spice, Fresh Fruits, Gentle Smoke"
   }, {
@@ -1427,7 +1427,7 @@
     "region": "japan",
     "description": "",
     "images": {
-      "thumbnail_filename": "japan_tak5.jpg"
+      "thumbnail_filename": "japan_tak5.png"
     },
     "character": "Sweet & Oily, Apple Cider, Toffee"
   },
@@ -1441,7 +1441,7 @@
     "region": "other",
     "description": "",
     "images": {
-      "thumbnail_filename": "brenne.jpg"
+      "thumbnail_filename": "brenne.png"
     },
     "character": "Sweet Vanilla, Cream, Berries"
   }, {
@@ -1451,7 +1451,7 @@
     "region": "other",
     "description": "",
     "images": {
-      "thumbnail_filename": "welsh_pen21.jpg"
+      "thumbnail_filename": "welsh_pen21.png"
     },
     "character": "Toffee, Tropical Fruits, Raisins"
   }

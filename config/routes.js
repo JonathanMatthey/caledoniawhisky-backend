@@ -24,7 +24,9 @@ module.exports = function (app, passport) {
   app.get('/auth/signout', authentication.signout);
 
   app.get('/api/whiskies', whiskiesApi.index);
-  app.get('/api/whiskies/:whiskyId', auth.user.exists, whiskiesApi.show);
+  // TODO - bring this back in once auth works right
+  // app.get('/api/whiskies/:whiskyId', auth.user.exists, whiskiesApi.show);
+  app.get('/api/whiskies/:whiskyId', whiskiesApi.show);
 
   // get whisky ( with id, returns reviews)
 

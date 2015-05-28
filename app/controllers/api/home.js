@@ -15,7 +15,6 @@ exports.home = function (req, res, next) {
   // });
 
   // find Events
-  //
   // facebook PAGE ACCESS TOKEN req for graph api
   // https://developers.facebook.com/docs/facebook-login/access-tokens
   // https://developers.facebook.com/docs/graph-api/reference/page/events
